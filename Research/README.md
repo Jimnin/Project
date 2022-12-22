@@ -1,3 +1,3 @@
-# 2020 ~ 연구파일
-- 개인적인 보안 때문에 전부 올리지 않습니다
-- 필요하다고 생각되는 코드 위주로 업로드 예정
+# 2020 ~ Research File
+- I don't upload everything for personal security
+- Will be uploaded focusing on the code I think need
