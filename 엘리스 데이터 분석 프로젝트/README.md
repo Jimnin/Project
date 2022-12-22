@@ -13,7 +13,7 @@ The project is designed to reduce carbon generated in daily life through low-car
   <img src="https://img.shields.io/badge/-Axios-white?style=for-the-badge&logo=Axios&logoColor=5A29E4"/>
   <img src="https://img.shields.io/badge/-chart-white?style=for-the-badge&logo=chart.js&logoColor=FF6384"/>
 </div>
-<h3>Back-end:</h3>
+<h3>Back-end: ME</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/-node-white?style=for-the-badge&logo=node.js&logoColor=339933"/>
