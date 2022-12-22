@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=MySQL&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/-oracle cloud-white?style=for-the-badge&logo=oracle&logoColor=F80000"/>
 </div>
-<h3>AI: <a href="https://github.com/KongTi/Project/blob/main/엘리스%20AI%20서비스%20프로젝트/AI_프로젝트.ipynb" target="_blank">Link(KR)</a></h3>
+<h3>AI: <a href="https://github.com/KongTi/Project/blob/main/엘리스%20AI%20서비스%20프로젝트/AI_프로젝트.ipynb" target="_blank">Link(KR)</a>-ME</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/-PYTHON-white?style=for-the-badge&logo=Python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-pytorch-white?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
