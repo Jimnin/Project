@@ -22,7 +22,7 @@ The project is designed to reduce carbon generated in daily life through low-car
   <img src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=MySQL&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/-jwt-white?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=000000"/>
 </div>
-<h3>Data Analysis: <a href="https://github.com/KongTi/Project/blob/main/엘리스%20데이터%20분석%20프로젝트/탄소(위험성자료).ipynb" target="_blank">Link(KR)</a></h3>
+<h3>Data Analysis: <a href="https://github.com/KongTi/Project/blob/main/엘리스%20데이터%20분석%20프로젝트/탄소(위험성자료).ipynb" target="_blank">Link(KR)</a>-ME</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/-PYTHON-white?style=for-the-badge&logo=Python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/-numpy-white?style=for-the-badge&logo=numpy&logoColor=013243"/>
