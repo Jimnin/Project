@@ -32,3 +32,16 @@
   <img src="https://img.shields.io/badge/-yolo-white?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/-opencv-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </div>
+<h2>Feature</h2>
+<ul><li>HomePage:<br/>Img animation, Navigation button, Check real-time exchange rate, Responsive Web Design(ALL)</li>
+<li>AboutPage:<br/>Img animation, Img slider</li>
+<li>BuyCoin:<br/>Purchase foreign coins (JP/CN/US), Payment API</li>
+<li>SellCoin:<br/>Coins analysis using AI, Add/Delete coins to sell</li>
+<li>MyPage:<br/>Provide details of buy/sell coins, Points can be withdrawn money</li>
+<li>Login / Logout:<br/>Change user information, Security with tokens, Make features unavailable when not logged in</li></ul>
+<h2>Future</h2>
+<ul><li>Increase coin types</li>
+<li>Email authentication</li>
+<li>Courier invoice function</li>
+<li>Re-design overall</li>
+<li>Adding a profit structure</li></ul>
