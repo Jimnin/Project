@@ -29,3 +29,14 @@ The project is designed to reduce carbon generated in daily life through low-car
   <img src="https://img.shields.io/badge/-pandas-white?style=for-the-badge&logo=pandas&logoColor=150458"/>
   <img src="https://img.shields.io/badge/-matplotlib-white?style=for-the-badge&logo=Python&logoColor=3776AB"/>
 </div>
+<h2>Feature</h2>
+<ul><li>LandingPage:<br/>One Page Scroll, Show environmental pollution severity graph, Darkmode(ALL)</li>
+<li>ChallengePage:<br/>Participate in the challenge, Comment</li>
+<li>CommunityPage:<br/>Challenge suggestion, Likes, Modal window, Skeleton UI, CRUD</li>
+<li>AdminPage:<br/>DB access, Add Challenge</li>
+<li>Login / Logout:<br/>Security with tokens</li></ul>
+<h2>Future</h2>
+<ul><li>Reporting</li>
+<li>Email authentication</li>
+<li>User profile Img</li>
+<li>Count views</li></ul>
