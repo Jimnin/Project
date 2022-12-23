@@ -29,3 +29,7 @@ If I get better results, I plan to apply them to my current master's research an
   <img src="https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras&logoColor=D00000"/>
   <img src="https://img.shields.io/badge/-scikit learn-white?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 </div>
+<h2>Future</h2>
+<ul><li>Detect differential rate in time series data using RNN, GPT etc</li>
+<li>Configure with other spacecraft in-situ data to build dataset</li>
+<li>Build an explainable model using ML</li></ul>
